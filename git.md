@@ -27,3 +27,5 @@
 + git diff 显示尚未暂存的改动，而不是自上次提交以来所做的所有改动。
 
 	git diff --cached 和git diff --staged可查看暂存的改动
+
++ git 冲突问题，可用图形界面进行修改(git mergetool)
