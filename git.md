@@ -27,3 +27,5 @@
 + git diff 显示尚未暂存的改动，而不是自上次提交以来所做的所有改动。
 
 	git diff --cached 和git diff --staged可查看暂存的改动
+
++ git commit -a -m "" ，可以直接跳过git add 操作，直接进行提交
