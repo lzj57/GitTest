@@ -31,3 +31,5 @@
 + git commit -a -m "" ，可以直接跳过git add 操作，直接进行提交
 
 + git 冲突问题，可用图形界面进行修改(git mergetool)
+
++ git mv file_from file_to
