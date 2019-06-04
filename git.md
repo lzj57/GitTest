@@ -32,4 +32,5 @@
 
 + git 冲突问题，可用图形界面进行修改(git mergetool)
 
++ git rm 移除文件,git rm --cached 移除暂存区的文件
 + git mv file_from file_to
