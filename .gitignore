@@ -1,1 +1,10 @@
 *.txt
+rootF/kk/12/
+no
+
+# 这是一个注释
+# .a 忽略.a
+# !lib.a 不忽略lib.a 
+# /TODO 之忽略此目录下的TODO文件，但子目录的TODO不忽略
+# build/ 忽略所有的build目录下的文件
+# doc/*.txt 忽略doc/目录下的txt，但不忽略子目录下的txt
