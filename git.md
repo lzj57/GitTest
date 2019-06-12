@@ -28,8 +28,10 @@
 
 	git diff --cached 和git diff --staged可查看暂存的改动
 
-+ git commit -a -m "" ，可以直接跳过git add 操作，直接进行提交
++ git commit -a -m "" ，可以直接跳过git add 操作，直接进行提交（新增的文件直接commit失效）
 
 + git 冲突问题，可用图形界面进行修改(git mergetool)
 
 + git rm 移除文件,git rm --cached 移除暂存区的文件
+
++ 测试git上传文件筛选
